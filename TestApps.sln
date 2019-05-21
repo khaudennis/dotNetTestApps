@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{A198349E-AB80-4593-881A-E3BF13447B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponseStream", "ResponseStream\ResponseStream.csproj", "{F9647250-1BEE-4644-93DF-0E05F836D556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A198349E-AB80-4593-881A-E3BF13447B6C}.Debug|x86.ActiveCfg = Debug|x86
+		{A198349E-AB80-4593-881A-E3BF13447B6C}.Debug|x86.Build.0 = Debug|x86
+		{A198349E-AB80-4593-881A-E3BF13447B6C}.Release|x86.ActiveCfg = Release|x86
+		{A198349E-AB80-4593-881A-E3BF13447B6C}.Release|x86.Build.0 = Release|x86
+		{F9647250-1BEE-4644-93DF-0E05F836D556}.Debug|x86.ActiveCfg = Debug|x86
+		{F9647250-1BEE-4644-93DF-0E05F836D556}.Debug|x86.Build.0 = Debug|x86
+		{F9647250-1BEE-4644-93DF-0E05F836D556}.Release|x86.ActiveCfg = Release|x86
+		{F9647250-1BEE-4644-93DF-0E05F836D556}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
