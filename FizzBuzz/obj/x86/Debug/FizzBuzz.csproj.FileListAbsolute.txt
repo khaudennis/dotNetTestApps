@@ -1,4 +1,0 @@
-c:\users\dkhau\Team Sites\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
-c:\users\dkhau\Team Sites\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
-c:\users\dkhau\Team Sites\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
-c:\users\dkhau\Team Sites\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb

@@ -1,4 +1,0 @@
-c:\users\dkhau\Team Sites\FizzBuzz\ResponseStream\bin\Debug\ResponseStream.exe
-c:\users\dkhau\Team Sites\FizzBuzz\ResponseStream\bin\Debug\ResponseStream.pdb
-c:\users\dkhau\Team Sites\FizzBuzz\ResponseStream\obj\x86\Debug\ResponseStream.exe
-c:\users\dkhau\Team Sites\FizzBuzz\ResponseStream\obj\x86\Debug\ResponseStream.pdb
